@@ -20,7 +20,7 @@ L'usage de SoapUI s'avère indispensable pour tester les services web SOAP ; en 
 ![Screenshot (1641)](https://github.com/YassineAlami/Banque-Web-services-SOAP-WSDL/assets/40896739/514d5613-2336-4d4a-b939-a59c19cc11e6)
 
 
-
+Dans le cadre de cet exemple, un montant initial de 105 euros est soumis à conversion en dirham marocain, résultant en une valeur approximative de retour de 1107 MAD.
 
 ![Screenshot (1642)](https://github.com/YassineAlami/Banque-Web-services-SOAP-WSDL/assets/40896739/6bc6d4b2-3ec0-4cfe-8535-5c1fdb50075e)
 
