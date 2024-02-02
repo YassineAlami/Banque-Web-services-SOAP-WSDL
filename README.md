@@ -71,7 +71,7 @@ Suite à l'instruction donnée à JAXB d'omettre l'attribut 'date de création',
 
 
 
-
+Désormais, grâce à l'implémentation d'un 'Middleware stub', il est possible d'exploiter les fonctionnalités du service web depuis le côté client sans aucune contrainte.
 ![Screenshot (1652)](https://github.com/YassineAlami/Banque-Web-services-SOAP-WSDL/assets/40896739/5f279a50-0604-47ad-8711-df4c41e3b195)
 
 
