@@ -60,13 +60,12 @@ Suite à l'instruction donnée à JAXB d'omettre l'attribut 'date de création',
 
 
 
-Étant donné que notre environnement de développement repose sur Java 17, il devient impératif d'intégrer la dépendance 'jaxws-ri' au sein du fichier pom.xml. Cette exigence contraste avec les situations où l'on opérerait sous Java 6, 7, ou 8, périodes durant lesquelles cette intégration n'aurait pas requis d'attention particulière, la fonctionnalité étant déjà incorporée au sein de ces versions.
 
 ![Screenshot (1650)](https://github.com/YassineAlami/Banque-Web-services-SOAP-WSDL/assets/40896739/c20e924a-898b-414c-a41b-879902d85198)
 
 
 
-
+Étant donné que notre environnement de développement repose sur Java 17, il devient impératif d'intégrer la dépendance 'jaxws-ri' au sein du fichier pom.xml. Cette exigence contraste avec les situations où l'on opérerait sous Java 6, 7, ou 8, périodes durant lesquelles cette intégration n'aurait pas requis d'attention particulière, la fonctionnalité étant déjà incorporée au sein de ces versions.
 
 ![Screenshot (1651)](https://github.com/YassineAlami/Banque-Web-services-SOAP-WSDL/assets/40896739/f711e69c-2b37-4761-ac27-32504a7aae20)
 
