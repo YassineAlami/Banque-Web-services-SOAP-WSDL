@@ -48,7 +48,7 @@ Dans le cadre de cet exemple, un montant initial de 105 euros est soumis à conv
 
 
 
-
+Suite à l'instruction donnée à JAXB d'omettre l'attribut 'date de création', nous constatons qu'il ne figure désormais plus parmi les champs accessibles.
 
 ![Screenshot (1648)](https://github.com/YassineAlami/Banque-Web-services-SOAP-WSDL/assets/40896739/a6b2b298-5233-4991-bf1f-ed4ec658938a)
 
