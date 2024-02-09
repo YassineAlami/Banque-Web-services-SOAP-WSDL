@@ -1,5 +1,9 @@
 Au travers d'une illustration concrète, incarnée par une application bancaire de petite envergure, le présent atelier ambitionne d'évaluer le fonctionnement des services web en recourant à un service web bancaire, un client et SoapUI, outil dédié au test de services web SOAP. 
 
+Architecture:
+![Screenshot (1684)](https://github.com/YassineAlami/Banque-Web-services-SOAP-WSDL/assets/40896739/614a826d-b017-4a1c-a4e1-b942854efa6a)
+
+
 
 Nous procédons ici à l'examen du contenu du fichier de description WSDL, révélant ainsi l'interface du service web. 
 
